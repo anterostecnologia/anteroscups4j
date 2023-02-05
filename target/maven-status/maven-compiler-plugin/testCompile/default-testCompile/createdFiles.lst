@@ -1,0 +1,14 @@
+br/com/anteros/cups4j/ipp/attributes/AttributeGroupTest.class
+br/com/anteros/cups4j/ippclient/IppResponseTest.class
+br/com/anteros/cups4j/operations/ipp/IppSendDocumentOperationTest.class
+br/com/anteros/cups4j/PrintRequestResultTest.class
+br/com/anteros/cups4j/ippclient/IppResultTest.class
+br/com/anteros/cups4j/operations/ipp/AbstractIppOperationTest.class
+br/com/anteros/cups4j/operations/ipp/IppCreateJobOperationTest.class
+br/com/anteros/cups4j/ipp/ResponseExceptionTest.class
+br/com/anteros/cups4j/PrinterAttributes$1.class
+br/com/anteros/cups4j/CupsClientTest.class
+br/com/anteros/cups4j/TestCups.class
+br/com/anteros/cups4j/PrinterAttributes.class
+br/com/anteros/cups4j/PrinterAttributes$AttributeValueTable.class
+br/com/anteros/cups4j/CupsPrinterTest.class
